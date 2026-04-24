@@ -1,0 +1,120 @@
+- generic [active] [ref=e1]:
+  - alert [ref=e46]
+  - generic [ref=e70]:
+    - generic [ref=e72]:
+      - heading "React Component Generator" [level=1] [ref=e74]
+      - generic [ref=e76]:
+        - generic [ref=e119]:
+          - generic [ref=e120]:
+            - generic [ref=e123]: Create a pricing card component with a plan name, price, list of features, and a call-to-action button
+            - img [ref=e126]
+          - generic [ref=e146]:
+            - img [ref=e149]
+            - generic [ref=e154]:
+              - generic [ref=e157]: Creating App.jsx
+              - separator [ref=e158]
+              - generic [ref=e161]: Creating PricingCard.jsx
+              - separator [ref=e162]
+              - generic [ref=e163]:
+                - paragraph [ref=e164]:
+                  - text: Done! Created a reusable
+                  - code [ref=e165]: PricingCard
+                  - text: "component with:"
+                - list [ref=e166]:
+                  - listitem [ref=e167]: Plan name and price display
+                  - listitem [ref=e168]: Feature list with checkmark icons
+                  - listitem [ref=e169]: Customizable CTA button
+                  - listitem [ref=e170]: Highlighted variant for featured plans
+                  - listitem [ref=e171]: Hover effects and responsive grid layout
+                - paragraph [ref=e172]: The App.jsx shows three example pricing tiers with the Professional plan highlighted.
+        - generic [ref=e86]:
+          - textbox "Describe the React component you want to create..." [ref=e87]
+          - button [disabled] [ref=e88]:
+            - img [ref=e89]
+    - separator [ref=e92]
+    - generic [ref=e94]:
+      - generic [ref=e95]:
+        - tablist [ref=e97]:
+          - tab "Preview" [selected] [ref=e98]
+          - tab "Code" [ref=e99]
+        - generic [ref=e100]:
+          - combobox [ref=e101]:
+            - img
+            - text: "New Design #76786"
+            - img
+          - button "New Design" [ref=e102]:
+            - img
+            - text: New Design
+          - button "Sign out" [ref=e103]:
+            - img
+      - iframe [ref=e145]:
+        - generic [ref=f3e4]:
+          - generic [ref=f3e5]:
+            - heading "Starter" [level=3] [ref=f3e6]
+            - generic [ref=f3e7]:
+              - generic [ref=f3e8]: $29
+              - text: /month
+            - button "Get Started" [ref=f3e9] [cursor=pointer]
+            - generic [ref=f3e10]:
+              - paragraph [ref=f3e11]: Features
+              - list [ref=f3e12]:
+                - listitem [ref=f3e13]:
+                  - img [ref=f3e14]
+                  - generic [ref=f3e16]: Up to 10 projects
+                - listitem [ref=f3e17]:
+                  - img [ref=f3e18]
+                  - generic [ref=f3e20]: 5GB storage
+                - listitem [ref=f3e21]:
+                  - img [ref=f3e22]
+                  - generic [ref=f3e24]: Basic support
+                - listitem [ref=f3e25]:
+                  - img [ref=f3e26]
+                  - generic [ref=f3e28]: Community access
+          - generic [ref=f3e29]:
+            - heading "Professional" [level=3] [ref=f3e30]
+            - generic [ref=f3e31]:
+              - generic [ref=f3e32]: $79
+              - text: /month
+            - button "Start Free Trial" [ref=f3e33] [cursor=pointer]
+            - generic [ref=f3e34]:
+              - paragraph [ref=f3e35]: Features
+              - list [ref=f3e36]:
+                - listitem [ref=f3e37]:
+                  - img [ref=f3e38]
+                  - generic [ref=f3e40]: Unlimited projects
+                - listitem [ref=f3e41]:
+                  - img [ref=f3e42]
+                  - generic [ref=f3e44]: 500GB storage
+                - listitem [ref=f3e45]:
+                  - img [ref=f3e46]
+                  - generic [ref=f3e48]: Priority support
+                - listitem [ref=f3e49]:
+                  - img [ref=f3e50]
+                  - generic [ref=f3e52]: Advanced analytics
+                - listitem [ref=f3e53]:
+                  - img [ref=f3e54]
+                  - generic [ref=f3e56]: Team collaboration
+          - generic [ref=f3e57]:
+            - heading "Enterprise" [level=3] [ref=f3e58]
+            - generic [ref=f3e59]:
+              - generic [ref=f3e60]: $199
+              - text: /month
+            - button "Contact Sales" [ref=f3e61] [cursor=pointer]
+            - generic [ref=f3e62]:
+              - paragraph [ref=f3e63]: Features
+              - list [ref=f3e64]:
+                - listitem [ref=f3e65]:
+                  - img [ref=f3e66]
+                  - generic [ref=f3e68]: Everything in Professional
+                - listitem [ref=f3e69]:
+                  - img [ref=f3e70]
+                  - generic [ref=f3e72]: Unlimited storage
+                - listitem [ref=f3e73]:
+                  - img [ref=f3e74]
+                  - generic [ref=f3e76]: 24/7 dedicated support
+                - listitem [ref=f3e77]:
+                  - img [ref=f3e78]
+                  - generic [ref=f3e80]: Custom integrations
+                - listitem [ref=f3e81]:
+                  - img [ref=f3e82]
+                  - generic [ref=f3e84]: SLA guarantee

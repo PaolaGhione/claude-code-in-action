@@ -1,0 +1,39 @@
+- generic [active] [ref=e1]:
+  - alert [ref=e46]
+  - generic [ref=e70]:
+    - generic [ref=e72]:
+      - heading "React Component Generator" [level=1] [ref=e74]
+      - generic [ref=e76]:
+        - generic [ref=e119]:
+          - generic [ref=e120]:
+            - generic [ref=e123]: Create a pricing card component with a plan name, price, list of features, and a call-to-action button
+            - img [ref=e126]
+          - generic [ref=e129]:
+            - img [ref=e132]
+            - generic [ref=e137]:
+              - generic [ref=e140]: Creating App.jsx
+              - generic [ref=e141]:
+                - img [ref=e142]
+                - generic [ref=e144]: Generating...
+        - generic [ref=e86]:
+          - textbox "Describe the React component you want to create..." [disabled] [ref=e87]
+          - button [disabled] [ref=e88]:
+            - img [ref=e89]
+    - separator [ref=e92]
+    - generic [ref=e94]:
+      - generic [ref=e95]:
+        - tablist [ref=e97]:
+          - tab "Preview" [selected] [ref=e98]
+          - tab "Code" [ref=e99]
+        - generic [ref=e100]:
+          - combobox [ref=e101]:
+            - img
+            - text: "New Design #76786"
+            - img
+          - button "New Design" [ref=e102]:
+            - img
+            - text: New Design
+          - button "Sign out" [ref=e103]:
+            - img
+      - iframe [ref=e145]:
+        

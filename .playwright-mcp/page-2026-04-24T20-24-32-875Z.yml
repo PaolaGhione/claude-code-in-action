@@ -1,0 +1,65 @@
+- generic:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - heading [level=1]: React Component Generator
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+                - paragraph: Start a conversation to generate React components
+                - paragraph: I can help you create buttons, forms, cards, and more
+              - generic:
+                - generic:
+                  - generic:
+                    - textbox:
+                      - /placeholder: Describe the React component you want to create...
+                    - button [disabled]:
+                      - img
+      - separator
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - tablist:
+                - tab [selected]: Preview
+                - tab: Code
+            - generic:
+              - button: Sign In
+              - button: Sign Up
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+                  - heading [level=3]: Welcome to UI Generator
+                  - paragraph: Start building React components with AI assistance
+                  - paragraph: Ask the AI to create your first component to see it live here
+  - alert
+  - dialog "Create an account" [ref=e48]:
+    - generic [ref=e49]:
+      - heading "Create an account" [level=2] [ref=e50]
+      - paragraph [ref=e51]: Sign up to start creating AI-powered React components
+    - generic [ref=e53]:
+      - generic [ref=e54]:
+        - generic [ref=e55]: Email
+        - textbox "Email" [active] [ref=e56]:
+          - /placeholder: you@example.com
+      - generic [ref=e57]:
+        - generic [ref=e58]: Password
+        - textbox "Password" [ref=e59]
+        - paragraph [ref=e60]: Must be at least 8 characters long
+      - generic [ref=e61]:
+        - generic [ref=e62]: Confirm Password
+        - textbox "Confirm Password" [ref=e63]
+      - button "Sign Up" [ref=e64]
+    - generic [ref=e65]:
+      - text: Already have an account?
+      - button "Sign in" [ref=e66]
+    - button "Close" [ref=e67]:
+      - img
+      - generic [ref=e68]: Close
